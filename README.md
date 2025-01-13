@@ -265,6 +265,7 @@ Table of Contents
 * [Sikh News](https://play.google.com/store/apps/details?id=in.baljeetsingh.sikhnewsapp)
 * [Sundar Gutka](https://play.google.com/store/apps/details?id=com.WahegurooNetwork.SundarGutka)
 * [Sundar Gutka Taksal](https://play.google.com/store/apps/details?id=org.damdamitaksal.sundargutka)
+* [Gurmat Samagam](https://play.google.com/store/apps/details?id=com.gurudwarameetups)
 
 ### iOS Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -275,6 +276,7 @@ Table of Contents
 * [Asa Di Vaar - Bahu Shabdi](https://itunes.apple.com/us/app/asa-di-vaar-bahu-shabdi/id920587098?mt=8)
 * [SikhNet Gurbani Media Center](https://itunes.apple.com/us/app/sikhnet-gurbani-media-center/id487763229?mt=8)
 * [MySikhi Nitnem Gutka Calendar](https://itunes.apple.com/us/app/mysikhi-nitnem-gutka-calendar/id565106280?mt=8)
+* [Gurmat Samagam](https://apps.apple.com/in/app/gurmat-samagam/id6739645897)
 
 ### Windows Phone Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
